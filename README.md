@@ -1,2 +1,2 @@
 # DirtyRaccon
-Racon tool
+Racon tool for ethical hackers
